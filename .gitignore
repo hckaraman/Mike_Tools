@@ -125,3 +125,5 @@ dmypy.json
 /mikeio/testdata
 .idea
 *.zip
+
+mikeio/notebooks/
