@@ -1,0 +1,2 @@
+#### Raster to XYZ ####
+gdal_translate -of XYZ H34.tif H34.xyz
