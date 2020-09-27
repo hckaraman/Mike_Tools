@@ -1,2 +1,3 @@
 #### Raster to XYZ ####
 gdal_translate -of XYZ H34.tif H34.xyz
+gdal2xyz.py -band 1 -csv H34.tif H34.csv
